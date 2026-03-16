@@ -1,3 +1,3 @@
-DROP DATABASE DATA_expense;
+CREATE DATABASE DATA_expense;
 
 
